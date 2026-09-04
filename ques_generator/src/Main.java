@@ -48,6 +48,7 @@ public class Main{
             }else{
                 System.out.println("Sorry the answer is \'"+answers[i]+"\'");
             }
+            System.out.println("------------------------------------------------------------------------------------------");
         }
         System.out.println("To view score enter 0");
         int view=sc.nextInt();
